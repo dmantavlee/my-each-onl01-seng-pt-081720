@@ -6,4 +6,5 @@ def my_each(file)
     a += 1
 
   end
+  array
 end
