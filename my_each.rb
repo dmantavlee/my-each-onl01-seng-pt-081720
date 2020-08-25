@@ -3,6 +3,6 @@ def my_each(file)
 
   while a < file.length
     a += 1
-    yield
+    yield array [a]
   end
 end
