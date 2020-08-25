@@ -4,6 +4,6 @@ def my_each(file)
   while a < file.length
       yield array [a]
     a += 1
-  
+
   end
 end
