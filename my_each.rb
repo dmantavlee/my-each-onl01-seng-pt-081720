@@ -6,5 +6,5 @@ def my_each(file)
     a = a + 1
 
   end
-
+file
 end
